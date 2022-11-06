@@ -6,13 +6,7 @@
 
 ## Author: Ong Yi Jun SWE2002109
 
-This is the user manual. The user's input is trimmed, converted to lower case before being catched.  
-When being prompted, the catched keywords will be recognized,  
-and the corresponding type of response will be given.  
-Keywords grouped in parenthesis returns same type of response.  
-Each type of response consists of one or more responses.  
-When a type of response is prompted,  
-only one response is randomly chosen and output to the user.  
+This is the user manual. The user's input is trimmed, converted to lower case before being catched. When being prompted, the catched keywords will be recognized, and the corresponding type of response will be given. Keywords grouped in parenthesis returns same type of response. Each type of response consists of one or more responses. When a type of response is prompted, only one response is randomly chosen and output to the user. 
 
 #### Q1: How are you feeling today?
 
